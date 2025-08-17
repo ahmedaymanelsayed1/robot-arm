@@ -39,7 +39,7 @@ Required libraries:
 
 Install dependencies:
 
-```
+``` bash
 pip install opencv-python cvzone numpy pyserial mediapipe
 ```
 
